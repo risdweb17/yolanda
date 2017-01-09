@@ -12,19 +12,34 @@
 
 h1 {
   color: #FFF;
-  font-family: 'Poppins', sans-serif;
-  font-size: 110px;
-  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90px;
   letter-spacing: 0.3em;
   margin: 0;
-  padding-top: 350px;
+  padding-top: 320px;
   text-align: center;
   text-transform: uppercase;
   word-spacing: 0.3em;
+  
 }
 body {
   padding: 0;
   margin: 0;
-  background-color: #dfa4be;
+  background-color: #f5a6b9;
   text-align: center;
 }
+.information {
+	 color: #1E1E24;
+  	 font-family: 'Poppins', sans-serif;
+}
+
+.circle {
+	padding-top: 100px;
+	text-align: center;
+}
+.information {
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+
+}
+
