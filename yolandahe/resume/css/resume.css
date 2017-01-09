@@ -6,7 +6,25 @@
 
 .title {
 	background-image: url(https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/resume/img/image4.JPG?raw=true); 
-	background-size: cover;
-	height: 1196px;
+	height: 747px;
+  	background-position: bottom center;
+}
 
+h1 {
+  color: #FFF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 110px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
+  margin: 0;
+  padding-top: 350px;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 0.3em;
+}
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #dfa4be;
+  text-align: center;
 }
