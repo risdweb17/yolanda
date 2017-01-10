@@ -40,6 +40,28 @@ body {
 .information {
 	font-family: 'Montserrat', sans-serif;
 	float: left;
-
+	margin-left: 580px;
+}
+.education {
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	margin-left: 465px;
+	font-size: 16px
+	font-weight: normal;
+	padding-top: 50px;
+}
+#educationtitle {
+	font-weight: 900;
+	font-size: 25px;
+}
+.skills {
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	margin-left: 390px;
+}
+#skillstitle {
+	font-weight: 900;
+	font-size: 25px;
+	margin-right: 20px;
 }
 
