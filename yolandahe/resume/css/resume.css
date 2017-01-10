@@ -1,8 +1,4 @@
-@font-face {
-  font-family: "San Francisco";
-  font-weight: 400;
-  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff");
-}
+
 
 .title {
 	background-image: url(https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/resume/img/image4.JPG?raw=true); 
@@ -43,6 +39,7 @@ body {
 	margin-left: 580px;
 }
 .education {
+	border-top: 3px solid #000; 
 	font-family: 'Montserrat', sans-serif;
 	float: left;
 	margin-left: 465px;
@@ -64,4 +61,55 @@ body {
 	font-size: 25px;
 	margin-right: 20px;
 }
+.psicon {
+	float: left;
+	margin-left: 500px;
+}
+.aiicon {
+	float: left;
+	margin-left: 120px;
+}
+.idicon {
+	float: left;
+	margin-left: 120px;
+}
 
+.awards {
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	position: relative;
+	left: 330px;
+}
+#awardstitle {
+	font-weight: bold;
+	font-size: 25px;
+	padding-top: 20px;
+}
+.workexprience {
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	padding-top: 220px;
+	position: relative;
+	right: 340px;
+}
+#workexpriencetitle {
+	font-weight: bold;
+	font-size: 25px;
+}
+#contactme {
+	margin: 100px auto;
+	font-weight: bold;
+	font-size: 22px;
+	text-transform: uppercase;
+	
+
+}
+#nothing {
+	width:200px;
+	height: 50px;
+	border: 3px solid #000;
+	position: relative;
+	left: 237px;
+	bottom: 65px;
+
+}
