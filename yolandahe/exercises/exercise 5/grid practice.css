@@ -1,5 +1,94 @@
+body {
+	overflow: scroll;
+}
 .one {
 	background-color: pink;
 	overflow: auto;
-	padding: 20px;
+	width: 1430px;
+	height: 60px;
+	float: left;
 }
+.two {
+	background-color: pink;
+	width: 40%;
+	height: 30px;
+	float: left;
+	position: fixed;
+	left: 400px;
+	top: 119px;
+
+}
+.three {
+	background-color: pink;
+	width: 10%;
+	height: 30px;
+	float: left;
+	position: fixed;
+	left: 236px;
+	top: 119px;
+}
+.four {
+	background-color: pink;
+	width: 10%;
+	height: 20px;
+	float: left;
+	margin-left: 0px;
+	position: fixed;
+	left: 236px;
+	top: 170px;
+}
+.five {
+	background-color: pink;
+	width: 10%;
+	height: 170px;
+	float: left;
+	position: fixed;
+	left: 236px;
+	top: 200px;
+}
+.six {
+	background-color: pink;
+	width: 10%;
+	height: 40px;
+	float: left;
+	position: fixed;
+	left: 236px;
+	top: 430px;
+}
+.seven {
+	background-color: pink;
+	width: 10%;
+	height: 130px;
+	float: left;
+	position: fixed;
+	left: 236px;
+	top: 482px;
+}
+.eight {
+	background-color: pink;
+	width: 40%;
+	height: 55px;
+	position: fixed;
+	float:left;
+	left: 400px;
+	top: 160px;
+}
+.nine {
+	background-color: pink;
+	width: 40%;
+	height: 270px;
+	position: fixed;
+	float:left;
+	left: 400px;
+	top: 240px;
+}
+.ten {
+	background-color: pink;
+	width: 40%;
+	height: 270px;
+	position: fixed;
+	float:left;
+	left: 400px;
+	top: 550px;
+}
+
