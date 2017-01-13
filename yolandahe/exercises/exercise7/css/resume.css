@@ -1,0 +1,116 @@
+
+
+.title {
+	background-image: url(https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/resume/img/image4.JPG?raw=true); 
+	height: 747px;
+  	background-position: bottom center;
+}
+
+h1 {
+  color: #FFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 100px;
+  letter-spacing: 0.6em;
+  margin: 0;
+  padding-top: 320px;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 0.3em;
+  min-width: 898px;
+  
+}
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f5a6b9;
+  text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+.information {
+	 color: #1E1E24;
+  	 font-family: 'Poppins', sans-serif;
+}
+
+.circle {
+	padding-top: 100px;
+	text-align: center;
+}
+.information {
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	margin-left: 580px;
+}
+
+
+
+#contactme {
+	margin: 100px auto;
+	font-weight: bold;
+	font-size: 22px;
+	text-transform: uppercase;
+	text-align: center;
+	
+
+}
+#nothing {
+	width:200px;
+	height: 50px;
+	border: 3px solid #000;
+  	text-align: center;
+  	/*display: flex;
+  	justify-content: center;*/
+  	margin: auto;
+  	padding: 15px;
+}
+.container {
+	width:auto;
+	margin: 10px 20px 10px auto;
+	background-position: fixed;
+	overflow: auto;
+	padding: 1em;
+	padding-right: 5em;
+	text-align: center;
+}
+
+.text {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+.smtitle {
+	font-weight: bold;
+	font-size: 25px;
+	padding-top: 20px;
+	text-align: center;
+}
+.icons {
+	width: auto;
+	height: 60px;
+	text-align: center;
+	background-position: fixed;
+ 	display: flex;
+  	justify-content: center;
+
+	
+}
+
+
+.psicon {
+	margin-right: 60px;
+}
+.aiicon {
+	margin-right: 60px;
+}
+.idicon {
+	float: right;
+}
+
+@media screen and (max-width: 1050px){
+	h1 {
+		font-size: 50px;
+	}
+}
+
