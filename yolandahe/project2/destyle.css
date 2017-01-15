@@ -1,0 +1,13 @@
+body {
+	margin: 0px;
+}
+.box1 {
+	 background: url(https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/project2/img/6.jpg?raw=true) no-repeat;
+ 	 background-size: cover;
+ 	 height: 900px;
+ 	 background-position: center;
+ 	 display: flex;
+  	 justify-content: center;
+  	 align-items: center;
+
+}
