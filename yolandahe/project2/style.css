@@ -1,0 +1,33 @@
+.container {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 140px;
+}
+
+body {
+		background-color: #ede5e0;
+}
+
+.box1 {
+	background: url('https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/project2/img/01.jpg?raw=true') center center;
+	min-height: 720px;
+	width: 480px;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+
+}
+
+.box2 {
+	margin-left: 150px;
+	align-items: center;
+	align-self: center;
+	background: url('https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/project2/img/5.jpg?raw=true') center center;
+	min-height: 720px;
+	display: flex;
+	justify-content: center;
+	width: 480px;
+	position: relative;
+	bottom: 720px;
+	left: 480px;
+}
