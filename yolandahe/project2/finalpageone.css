@@ -11,3 +11,8 @@ body {
   	background-color: black;
 }
 
+p {
+	width: 600px;
+	position: relative;
+	left: 700px;
+}

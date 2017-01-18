@@ -5,7 +5,7 @@ body {
 }
 
 .box {
-	background: url(https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/project2/2.JPG?raw=true) no-repeat;
+	background: url('img/w8.jpg') no-repeat;
  	background-position: center;
  	display: flex;
  	height: 800px;
@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-	color: black;
+	color: white;
 	text-align: center;
 	font-size: 22px;
 	letter-spacing: 0.2em;
@@ -29,4 +29,10 @@ h1:hover {
 }
 * {
 	text-decoration: none;
+}
+p {
+
+	position: relative;
+	left: 260px;
+	font-family: 'Montserrat', sans-serif;
 }

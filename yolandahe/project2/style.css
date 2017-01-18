@@ -9,7 +9,7 @@ body {
 }
 
 .box1 {
-	background: url('https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/project2/img/01.jpg?raw=true') center center;
+	background: url('img/w2.jpg') center center;
 	min-height: 720px;
 	width: 480px;
 	display: flex;
@@ -22,7 +22,7 @@ body {
 	margin-left: 150px;
 	align-items: center;
 	align-self: center;
-	background: url('https://github.com/risdweb17/yolanda/blob/gh-pages/yolandahe/project2/img/5.jpg?raw=true') center center;
+	background: url('img/w3.jpg') center center;
 	min-height: 720px;
 	display: flex;
 	justify-content: center;
