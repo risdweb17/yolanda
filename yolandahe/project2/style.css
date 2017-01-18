@@ -9,12 +9,13 @@ body {
 }
 
 .box1 {
-	background: url('img/w2.jpg') center center;
+	background: url('img/w9.jpg') center center;
 	min-height: 720px;
 	width: 480px;
 	display: flex;
   	justify-content: center;
   	align-items: center;
+  	background: contain;
 
 }
 
@@ -22,7 +23,7 @@ body {
 	margin-left: 150px;
 	align-items: center;
 	align-self: center;
-	background: url('img/w3.jpg') center center;
+	background: url('img/w10.jpg') center center;
 	min-height: 720px;
 	display: flex;
 	justify-content: center;
