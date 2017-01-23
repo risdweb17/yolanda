@@ -1,0 +1,136 @@
+.container {
+	height: 700px;
+	width: 574px;
+	background-color: #dedfd9;
+	overflow: hidden;
+
+
+
+ 
+}
+.one1 {
+	height: 9px;
+	width: 900px;
+	background-color: #f0d13e;
+	z-index: 10;
+}
+.one2 {
+	height: 80px;
+	width: 50px;
+	background-color: #37312c;
+	position: relative;
+	left: 70px;
+	float: left;
+}
+.one3 {
+	height: 80px;
+	width: 50px;
+	background-color: #6095be;
+	position: relative;
+	left: 200px;
+
+}
+.one4 {
+	height: 80px;
+	width: 50px;
+	background-color: #cd3517;
+	position: relative;
+	left: 500px;
+	float:left;
+	bottom: 80px;
+}
+.something {
+		transform: scale(0.7);
+
+}
+.one,.two,.three,.four,.five,.six {
+	transform: rotate(-45deg);
+	transform-origin: bottom left;
+	margin-bottom: 50px;
+	position: relative;
+	top: 150px;
+	left: -150px;
+
+}
+.two {
+	position: relative;
+	left: -50px;
+	top: 80px;
+}
+.three {
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+.four {
+	position: relative;
+	left: 100px;
+	top: -40px;
+}
+.five {
+	position: relative;
+	left: 170px;
+	top: -100px;
+}
+.six {
+	position: relative;
+	left: 260px;
+	top: -160px;
+}
+
+.row {
+	display: flex;
+	position: relative;
+	top: -270px;
+	left: -20px;
+}
+.text {
+	flex: 1;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 9px;
+}
+
+@-webkit-keyframes example {
+    0%   {background-color:#37312c; transform:translateX(0px);}
+    25%  {background-color:#6095be; transform:translateX(-100px);}
+    50%  {background-color:#6095be; transform:translateX(-200px);}
+    75%  {background-color:#cd3517; transform:translateX(-300px);}
+    100% {background-color:#37312c; transform:translateX(0px);}
+
+}
+@-webkit-keyframes exampletwo {
+    0%   {background-color:#37312c; transform:translateX(0px);}
+    25%  {background-color:#6095be; transform:translateX(50px);}
+    50%  {background-color:#37312c; transform:translateX(100px);}
+    75%  {background-color:#37312c; transform:translateX(150px);}
+    100% {background-color:#6095be; transform:translateX(0px);}
+}
+
+@-webkit-keyframes examplethree {
+    0%   {background-color:#cd3517; transform:translateX(0px);}
+    25%  {background-color:#6095be; transform:translateX(50px);}
+    50%  {background-color:#37312c; transform:translateX(100px);}
+    75%  {background-color:#cd3517 transform:translateX(150px);}
+    100% {background-color:#6095be; transform:translateX(0px);}
+}
+
+
+
+.one4 {
+	animation-name: example;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+.one3 {
+	animation-name: exampletwo ;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+}
+.one2 {
+	animation-name: examplethree ;
+	animation-duration: 7s;
+	animation-iteration-count: infinite;
+}
+
+
