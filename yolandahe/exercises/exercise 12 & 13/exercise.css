@@ -36,7 +36,42 @@ body{
 .nav {
 	margin-left: 300px;
 }
+
+li {
+	float: left;
+	list-style: none;
+	font-family: arial;
+	font-size: 29px;
+	padding: 20px;
+   
+
+}
 img {
 	position: relative;
 	right: -200px;
+}
+
+@media screen and (max-width: 523px){
+	.manu {
+		position: relative;
+		left: -300px;
+		bottom: -200px;
+
+	}
+	img {
+		position: relative;
+		left: -100px;
+		bottom: -200px;
+	}
+	li {
+		float: none;
+		list-style: none;
+		font-family: arial;
+		font-size: 16px;
+
+
+	}
+	ul {
+		padding-left: 0px;
+	}
 }
