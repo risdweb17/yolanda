@@ -1,0 +1,81 @@
+.container {
+    display: flex;
+  	justify-content: center;
+    align-items: center;
+}
+#text {
+	width: 100px;
+	height: 100px;
+	background-color: #f22f54;
+	margin-right: 50px;
+	transition: background-color 0.5s ease;
+
+}
+#text:hover {
+	background-color: #d52b43;
+	transition: background-color 0.5s ease;
+}
+#text2:hover {
+	background-color: #d52b43;
+	transition: background-color 0.5s ease;
+}
+
+#text2 {
+	width: 100px;
+	height: 100px;
+	background-color: #f22f54;
+	transition: background-color 0.5s ease;
+	margin-right: 50px;
+}
+#text3 {
+	width: 100px;
+	height: 100px;
+	background-color: #44596a;
+	margin-right: 50px;
+	transition: background-color 0.5s ease;
+}
+#text3:hover {
+	background-color: #242a2e;
+	transition: background-color 0.5s ease;
+}
+#text5:hover {
+	background-color: #242a2e;
+	transition: background-color 0.5s ease;
+}
+
+	
+#text4 {
+	width: 100px;
+	height: 100px;
+	background-color: #fecb02;
+	margin-right: 50px;
+	transition: background-color 0.5s ease;
+}
+#text4:hover {
+	width: 100px;
+	height: 100px;
+	background-color: #e7b905;
+	margin-right: 50px;
+	transition: background-color 0.5s ease;
+}
+#text6:hover {
+	width: 100px;
+	height: 100px;
+	background-color: #e7b905;
+	margin-right: 50px;
+	transition: background-color 0.5s ease;
+}
+#text5 {
+	width: 100px;
+	height: 100px;
+	background-color: #44596a;
+	margin-right: 50px;
+	transition: background-color 0.5s ease;
+}
+#text6 {
+	width: 100px;
+	height: 100px;
+	background-color: #fecb02;
+	margin-right: 50px;
+	transition: background-color 0.5s ease;
+}
