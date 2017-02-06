@@ -727,4 +727,8 @@ $(document).ready(function(){
 		$(this).fadeTo('slow', 0);
 	});
 	
+
+	$('.inside').hover(function(){
+		$('h1').toggleClass('zindex');
+	})
 });

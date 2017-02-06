@@ -669,3 +669,7 @@ h1 {
 	background-color: #b8aaf6;
 	float:left;
 }
+
+.zindex{
+	z-index: -20;
+}
