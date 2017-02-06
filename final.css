@@ -673,3 +673,12 @@ h1 {
 .zindex{
 	z-index: -20;
 }
+@media screen and (max-width: 577px){
+	.container1, .container2, .container3 {
+		display: none ;
+	}
+	.all {
+	background: url('back1.jpg') no-repeat;
+	background-size: 569px 799px;
+	}
+}
