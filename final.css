@@ -40,20 +40,20 @@ h1 {
 
 }
 #o1:hover, #o2:hover, #o3:hover,#o4:hover, #o5:hover, #o6:hover, #o7:hover, #o8:hover, #o9:hover, #o10:hover, #o11:hover, #o12:hover, #o13:hover, #o14:hover, #o15:hover, #o16:hover, #o17:hover, #o18:hover, #o19:hover, #o20:hover, #single:hover, #ba:hover, .selected {
-	 opacity: 0.3;
+	 opacity: 0.2;
 	 cursor: pointer;
 	 transition:  0.3s ease-in;
 	 transition:  0.3s ease-out;
 	 z-index: 20;
 }
 #p1:hover, #p2:hover, #p3:hover, #p4:hover, #p5:hover, #p6:hover, #p7:hover, #p8:hover, #p9:hover {
-	opacity: 0.4;
+	opacity: 0.3;
 	cursor: pointer;
 	transition: 0.3s ease-in;
 	 transition:  0.3s ease-out;
 }
 #q1:hover, #q2:hover, #q3:hover, #q4:hover, #q5:hover, #q6:hover, #q7:hover, #q8:hover, #single:hover {
-	opacity: 0.4;
+	opacity: 0.3;
 	cursor: pointer;
 	transition:  0.3s ease-in;
 	 transition:  0.3s ease-out;
