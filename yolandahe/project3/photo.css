@@ -72,6 +72,7 @@ width: 250px;
 .container img:hover {
 	width: 550px;
 	transition: 1.5s;
+	z-index: 30;
 }
 #on {
 	position: absolute;
