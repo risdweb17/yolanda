@@ -35,7 +35,7 @@ h1 {
 }
 p:hover {
 	background-color: black;
-	color: white;
+	color: black;
 }
 h3 {
 	font-size: 50px;
@@ -62,15 +62,15 @@ h3 {
 
 }
 #three:hover {
-	background-color: blue;
+	background-color: red;
 }
 #four:hover {
 	background-color:yellow;
 }
-#two:hover {
-	background-color:red;
+#two:hover, #h2:hover {
+	background-color:blue;
 }
-#one:hover {
+#one:hover, #h1:hover {
 	background-color:yellow;
 }
 #five:hover {
